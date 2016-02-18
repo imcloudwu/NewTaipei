@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1B84C86205361D01CDFE79A5519936B8D8C2A26C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1B84C86205361D01CDFE79A5519936B8D8C2A26C" : 0,
+    "FFBD131AC51C94CA7E2C0B16B0A76E74BF4A51F3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D434EBE7-FDB0-4243-86BE-44E482D52B7A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1B84C86205361D01CDFE79A5519936B8D8C2A26C" : "ntpc_pts_mobile_ios\/",
+    "FFBD131AC51C94CA7E2C0B16B0A76E74BF4A51F3" : "NewTaipei"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NewTaipei",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NewTaipei.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/kevinhuang_lds\/ntpc_pts_mobile_ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1B84C86205361D01CDFE79A5519936B8D8C2A26C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/imcloudwu\/NewTaipei.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FFBD131AC51C94CA7E2C0B16B0A76E74BF4A51F3"
+    }
+  ]
+}

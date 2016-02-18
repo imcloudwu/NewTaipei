@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D434EBE7-FDB0-4243-86BE-44E482D52B7A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NewTaipei</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FFBD131AC51C94CA7E2C0B16B0A76E74BF4A51F3</key>
+		<string>https://github.com/imcloudwu/NewTaipei.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NewTaipei.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FFBD131AC51C94CA7E2C0B16B0A76E74BF4A51F3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/imcloudwu/NewTaipei.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FFBD131AC51C94CA7E2C0B16B0A76E74BF4A51F3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FFBD131AC51C94CA7E2C0B16B0A76E74BF4A51F3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NewTaipei</string>
+		</dict>
+	</array>
+</dict>
+</plist>
